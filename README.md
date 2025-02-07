@@ -1,9 +1,5 @@
 # Cara-virtual-assistant
 
-This is a group project
-The group members are:
-Surupi Nandi, Jeet Chovatia, Archit Sinha, Mehuli Bidyabhusan, Didhiti Sadhukhan, Tandrima Singha
-
 I. What is the project all about?
 We have created a virtual AI assistant CARA with help of Python and Python modules. CARA can help users in performing various class of tasks without moving their fingers. Users only have to give voice command to CARA as they are having conversation with someone in real life. CARA can also talk to users like a virtual friend.
 
